@@ -1,8 +1,8 @@
 import java.io.*;
 class copyfile{
       public static void main(String args[]){
-                 File fi = new File("/home/shobhit/Desktop/datafile/testfile.txt");
-                 File gi = new File("/home/shobhit/Desktop/datafile/testfiles.txt");
+                 File fi = new File("/home/aishwarya/Desktop/datafile/testfile.txt");
+                 File gi = new File("/home/aishwarya/Desktop/datafile/testfiles.txt");
                  char c[]=new char[10000];
                       int i,k=0;
                  try{
